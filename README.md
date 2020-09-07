@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 青青子衿，悠悠我心
-### 网安菜鸟一枚
-### 昵称 f0ng
+### 个人博客 www.f0ng.cn
