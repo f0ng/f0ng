@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### blog: www.f0ng.cn
-### Official Wechat: only security
+### 微信公众号(Official Wechat): only security
