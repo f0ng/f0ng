@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 个人博客 www.f0ng.cn
+### blog: www.f0ng.cn
+### Official Wechat: only security
