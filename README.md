@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 ### blog: www.f0ng.cn
 ### 微信公众号(Official Wechat): only security
+
+![f0ng's github stats](https://github-readme-stats.vercel.app/api?username=f0ng&count_private=true&show_icons=true)
+
+
+
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=f0ng&layout=compact)
