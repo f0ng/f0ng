@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### blog: www.f0ng.cn
+### blog: www.f0ng.github.io
 ### 微信公众号(Official Wechat): only security
 
 ![f0ng's github stats](https://github-readme-stats.vercel.app/api?username=f0ng&count_private=true&show_icons=true)
